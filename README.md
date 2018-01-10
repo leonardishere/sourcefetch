@@ -3,8 +3,7 @@ An Atom plugin that searches stackoverflow for answers and their code in yours.
 
 ## Installation
 
-Clone this into your atom workspace. On windows, this is likely C:\Users\\<username>\.atom\packages
-
+Clone this into your atom workspace. On windows, this is likely C:\Users\(username)\.atom\packages  
 Open a terminal window in the sourcefetch folder.
 Run the following commands:
 ```
