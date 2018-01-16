@@ -1,13 +1,13 @@
 {
   "name": "sourcefetch",
   "main": "./lib/sourcefetch",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "An Atom plugin that searches stackoverflow for answers and pastes their code in yours.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "sourcefetch:fetch"
   },
-  "repository": "https://github.com/atom/sourcefetch",
+  "repository": "https://github.com/leonardishere/sourcefetch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
