@@ -18,4 +18,4 @@ The file you're in should have its language set to the correct language.
 Type out what you would like to search for. For example, "how to sort an array"
 Select the text to search.
 Activate sourcefetch using ctrl-alt-o, the menu bar, or the context menu.
-The results should replace the selected text.
+If a result is found, then it should replace the selected text. The results will contain the code from the top answer and the url of the question for further research.
